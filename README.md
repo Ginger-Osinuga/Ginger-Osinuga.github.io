@@ -15,12 +15,21 @@ This dashboard analyzes student performance across subjects and gender, highligh
 
 ---
 
-## Hospital Readmission Analysis (Tableau)
-This project analyzes hospital readmission rates to identify top conditions and states with higher readmission patterns.
+## International Development Analysis (SQL)
+This project analyzes global development data using SQL to identify trends across countries and indicators.
+
+### Key Insights
+- Development metrics vary significantly across regions.
+- Some countries show consistent improvement across key indicators, while others lag behind.
+
+---
+
+## Hospital Readmission Analysis (Excel)
+This project analyzes hospital readmission data to identify patterns across conditions and regions.
 
 ### Key Insights
 - Certain conditions have significantly higher readmission rates than others.
-- Some states consistently show higher readmission trends, indicating potential systemic factors.
+- Some states show consistently higher readmission trends.
 
 ---
 
@@ -29,13 +38,4 @@ This project explores delivery data to evaluate operational performance and iden
 
 ### Key Insights
 - Delivery delays are concentrated in specific regions and time periods.
-- Certain factors consistently impact delivery speed and performance.
-
----
-
-## Sales Data Analysis (Excel)
-This project analyzes sales data to identify trends, patterns, and opportunities for business growth.
-
-### Key Insights
-- Sales performance varies across categories and time periods.
-- Certain products and segments contribute more significantly to revenue.
+- Certain factors consistently impact delivery speed.
